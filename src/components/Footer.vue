@@ -44,7 +44,7 @@ footer {
     margin-bottom: 4px;
     .description {
       &::after {
-        content: "|| 网站构建：柳神 || API来源：柳神 || 项目作者:";
+        content: "|| 网站构建：";
         margin: 0 6px;
       }
     }
